@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
   // @ts-ignore
   return {
       // Gitee Pages 部署路径前缀，仓库名若不同请改为 '/你的仓库名/'
-      base: mode === 'gh' ?'/eduword/' : '/',
+      base: mode === 'gh' ?'/eduword-whx/' : '/',
       server: {
         port: 3000,
         host: '0.0.0.0',
