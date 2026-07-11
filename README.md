@@ -19,4 +19,4 @@
 
 1. 执行 `npm run build:custom` 是使用域名访问 或者`npm run build` 不需要使用域名，打包生成docs的文件夹。
 2. 上传github远程。
-3. 使用域名访问：https://eduword-whx.bingxiangtie.top
+3. 使用域名访问：https://eduword-3.bingxiangtie.top/
